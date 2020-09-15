@@ -11,7 +11,6 @@ google-analytics.com
 ad.mail.ru
 
 # Other
-weather.com/api/v1/content-config/ads
 ads.adfox.ru
 bidder.criteo.com
 adfox-c2s-ams.creativecdn.com
@@ -22,3 +21,4 @@ c.amazon-adsystem.com
 cdn-plus.roxot-panel.com
 tt.onthe.io
 s.w-x.co
+dsx.weather.com
