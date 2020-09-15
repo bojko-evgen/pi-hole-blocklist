@@ -1,25 +1,28 @@
-# Yandex
-mc.yandex.ru
-an.yandex.ru
-static-mon.yandex.net
-matchid.adfox.yandex.ru
-
-# Google
-google-analytics.com
-
-# Mail
+a.tiles.mapbox.com
 ad.mail.ru
-
-# Other
-ads.adfox.ru
-bidder.criteo.com
 adfox-c2s-ams.creativecdn.com
+ads.adfox.ru
 ads.betweendigital.com
-pb.adriver.ru
+ads.rubiconproject.com
+an.yandex.ru
 as-sec.casalemedia.com
+b.tiles.mapbox.com
+bidder.criteo.com
 c.amazon-adsystem.com
+c.tiles.mapbox.com
 cdn-plus.roxot-panel.com
-tt.onthe.io
-s.w-x.co
+cdn.adsafeprotected.com
+cdn.taboola.com
+d.tiles.mapbox.com
 dsx.weather.com
+google-analytics.com
+js-agent.newrelic.com
+matchid.adfox.yandex.ru
+mc.yandex.ru
+pb.adriver.ru
+s.w-x.co
 s3.amazonaws.com
+securepubads.g.doubleclick.net
+static-mon.yandex.net
+tt.onthe.io
+z.moatads.com
